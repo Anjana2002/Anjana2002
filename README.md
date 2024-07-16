@@ -1,3 +1,3 @@
 
-<h1 align="center">Hi 👋, I'm ANJANA</h1>  <img src="https://github.com/Anjana2002/Anjana2002/raw/main/cat.gif" alt="Cat GIF" width="300" height="300">
+<h1 align="center">Hi 👋, I'm ANJANA <img src="https://github.com/Anjana2002/Anjana2002/raw/main/cat.gif" alt="Cat GIF" width="10" height="10"></h1> 
 
